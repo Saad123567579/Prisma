@@ -1,0 +1,5 @@
+npm i -D prisma //to install prisma as dev dependency
+
+npx prisma init //initialize prisma 
+
+npx prisma generate 
